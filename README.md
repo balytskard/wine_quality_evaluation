@@ -18,3 +18,8 @@ The project consists of the following key steps:
 - `quality_evaluation.ipynb`: Jupyter Notebook with detailed analysis and data visualization.
 - `quality_evaluation.py`: Module with functions for wine quality evaluation.
 - `requirements.txt`: List of required Python packages for the project.
+
+## Example of work
+
+The photo shows the output of wine rating on a 10-point scale in Ukrainian language.
+![image](https://github.com/user-attachments/assets/2f05bb3d-5011-4fda-8e01-f7adaf276226)
